@@ -1,0 +1,17 @@
+#include <iostream>
+#include <string>
+#include <iomanip>
+
+using namespace std;
+
+int main()
+{
+    int a, b;
+    double resutado;
+    a = 5;
+    b = 2;
+    resultado = (double)a / b;//Esse double é para a conversão da variavel, necessario caso a declaração seja diferente do resultado que deseja.
+    cout << resultado << endl;
+
+    return 0;
+}

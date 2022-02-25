@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1637365174 source:c:\estudoprogramas\c\ash\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
